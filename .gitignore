@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+backend/.venv/
+frontend/node_modules/
+frontend/build/
+data/avatars/*
+data/backgrounds/*
+data/frames/*
+data/audio/*
+data/outputs/*
+data/inputs/*
+!data/**/.gitkeep
+models/*.pth
+models/*.onnx
+!models/.gitkeep
+.DS_Store
+.env
